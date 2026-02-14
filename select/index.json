@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "う、ふ、ふ、ふ、",
+  "base_artist": "EPO",
+  "createdAt": "2026-02-14T19:18:13.938381Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "う、ふ、ふ、ふ、",
+      "artist": "EPO",
+      "has_synced": true,
+      "path": "select/01_う、ふ、ふ、ふ、_EPO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "う、ふ、ふ、ふ",
+      "artist": "EPO",
+      "has_synced": true,
+      "path": "select/02_う、ふ、ふ、ふ_EPO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "う、ふ、ふ、ふ、",
+      "artist": "三浦あずさ",
+      "has_synced": false,
+      "path": "select/03_う、ふ、ふ、ふ、_三浦あずさ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "う・ふ・ふ・ふ",
+      "artist": "EPO",
+      "has_synced": true,
+      "path": "select/04_う・ふ・ふ・ふ_EPO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "う・ふ・ふ・ふ",
+      "artist": "EPO",
+      "has_synced": true,
+      "path": "select/05_う・ふ・ふ・ふ_EPO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "う・ふ・ふ・ふ",
+      "artist": "三浦あずさ",
+      "has_synced": false,
+      "path": "select/06_う・ふ・ふ・ふ_三浦あずさ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "う、ふ、ふ、ふ、",
+      "artist": "EPO",
+      "has_synced": false,
+      "path": "select/pl_01_う、ふ、ふ、ふ、_EPO.txt"
+    }
+  ]
+}
